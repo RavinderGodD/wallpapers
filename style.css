@@ -44,7 +44,7 @@ nav ul li{
 }
 
 .contenter{
-    width: 100%;
+    width: 90vh;
     min-height: 100vh;
     max-height: 200vh;
     background-color: rgb(92, 214, 214);
